@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+		<string>Char</string>
+		<string>Block</string>
+		<string>Coin</string>
+		<string>Spike</string>
+		<string>Block1</string>
+		<string>Edge</string>
+		<string>Level</string>
+		<string>MenuChar</string>
+		<string>MenuCoin</string>
+		<string>MainMenu</string>
+		<string>MenuLevel</string>
+	</array>
+	<key>Created</key>
+	<string>2014-08-17 09:33:54 +0000</string>
+	<key>Dependencies</key>
+	<array/>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
